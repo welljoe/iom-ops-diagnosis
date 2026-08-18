@@ -1,0 +1,15 @@
+{
+  "project_name": "demo-project",
+  "created_at": "2026-08-17T08:20:03.435648",
+  "current_gate": "G0",
+  "gate_status": {
+    "G0": "pending",
+    "G1": "not_started",
+    "G2": "not_started",
+    "G3": "not_started",
+    "G4": "not_started",
+    "G5": "not_started"
+  },
+  "storyline_version": "v0.1",
+  "vf_pages_count": 0
+}

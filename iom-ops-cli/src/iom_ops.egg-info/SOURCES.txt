@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/iom_ops/__init__.py
+src/iom_ops/cli.py
+src/iom_ops.egg-info/PKG-INFO
+src/iom_ops.egg-info/SOURCES.txt
+src/iom_ops.egg-info/dependency_links.txt
+src/iom_ops.egg-info/entry_points.txt
+src/iom_ops.egg-info/requires.txt
+src/iom_ops.egg-info/top_level.txt

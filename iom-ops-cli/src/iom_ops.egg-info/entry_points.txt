@@ -1,0 +1,2 @@
+[console_scripts]
+iom-ops = iom_ops.cli:main

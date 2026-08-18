@@ -1,0 +1,9 @@
+click>=8.0
+rich>=12.0
+pyyaml>=6.0
+jsonschema>=4.0
+
+[dev]
+pytest>=7.0
+black>=22.0
+flake8>=5.0
